@@ -20,6 +20,6 @@ $ rosrun eeg_baxter play.py
 TODO
 ====
 
-[x] Start repository
-[ ] Create interface for movements
-[ ] Decide how to implement movement to boxes
+- [x] Start repository
+- [ ] Create interface for movements
+- [ ] Decide how to implement movement to boxes
