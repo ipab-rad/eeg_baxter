@@ -13,7 +13,9 @@ Requirements
 Running the demo
 ================
 
-* `rosrun eeg_baxter start_play`
+```bash
+$ rosrun eeg_baxter play.py
+```
 
 TODO
 ====
